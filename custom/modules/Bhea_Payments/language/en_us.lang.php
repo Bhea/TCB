@@ -1,0 +1,26 @@
+<?php
+// created: 2013-12-30 19:34:06
+$mod_strings = array (
+  'LNK_NEW_RECORD' => 'Create Payment',
+  'LNK_LIST' => 'View Payments',
+  'LBL_MODULE_NAME' => 'Payments',
+  'LBL_MODULE_NAME_SINGULAR' => 'Payment',
+  'LBL_NEW_FORM_TITLE' => 'New Payment',
+  'LNK_IMPORT_VCARD' => 'Import Payment vCard',
+  'LNK_IMPORT_BHEA_PAYMENTS' => 'Import Payment',
+  'LBL_LIST_FORM_TITLE' => 'Payments List',
+  'LBL_SEARCH_FORM_TITLE' => 'Search Payment',
+  'LBL_HOMEPAGE_TITLE' => 'My Payments',
+  'LBL_PAYMENT_DATE' => 'Payment Date',
+  'LBL_PAYMENT_STATUS' => 'Payment Status',
+  'LBL_PAYMENT_MODE' => 'Payment Mode',
+  'LBL_CHECK_DD_TRANSACTION_NONO' => 'Check/DD/Transaction No',
+  'LBL_CHECK_DD_TRANSACTION_DATE' => 'Check/DD/Transaction Date',
+  'LBL_BANK_NAME' => 'Bank Name',
+  'LBL_BRANCH_NAME' => 'Branch Name',
+  'LBL_REMARKS' => 'Remarks',
+  'LBL_BHEA_MEMBERSHIPS_BHEA_PAYMENTS_1_FROM_BHEA_MEMBERSHIPS_TITLE' => 'Membership',
+  'LBL_BHEA_COUNCIL_MEMBERSHIPS_BHEA_PAYMENTS_1_FROM_BHEA_COUNCIL_MEMBERSHIPS_TITLE' => 'Council Membership',
+  'LBL_BHEA_ORDERS_BHEA_PAYMENTS_1_FROM_BHEA_ORDERS_TITLE' => 'Order',
+  'LBL_BHEA_INVOICES_BHEA_PAYMENTS_1_FROM_BHEA_INVOICES_TITLE' => 'Invoice',
+);

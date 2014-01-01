@@ -1,0 +1,26 @@
+<?php
+// created: 2013-12-30 19:34:06
+$mod_strings = array (
+  'LBL_ACCOUNTS_BHEA_MEMBERSHIPS_1_FROM_ACCOUNTS_TITLE' => 'Company',
+  'LBL_FINAL_MEM_FEE' => 'Final Membership Fee',
+  'LBL_DISCOUNT' => 'Discount',
+  'LBL_MEM_TYPE' => 'Membership Type',
+  'LBL_LOST_REASON' => 'Lost Reason',
+  'LBL_STATUS' => 'Status',
+  'LBL_DAYS' => 'days',
+  'LBL_EXPIRY_DATE' => 'Expiry Date',
+  'LBL_BHEA_MEMBERSHIPS_BHEA_PAYMENTS_1_FROM_BHEA_PAYMENTS_TITLE' => 'Payment',
+  'LBL_BHEA_MEMBERSHIPS_BHEA_ORDERS_1_FROM_BHEA_ORDERS_TITLE' => 'Order',
+  'LBL_PAYMENT_STATUS' => 'Payment Status',
+  'LNK_NEW_RECORD' => 'Create Memberships',
+  'LNK_LIST' => 'View Memberships',
+  'LBL_MODULE_NAME' => 'Memberships',
+  'LBL_MODULE_NAME_SINGULAR' => 'Membership',
+  'LBL_NEW_FORM_TITLE' => 'New Membership',
+  'LNK_IMPORT_VCARD' => 'Import Membership vCard',
+  'LNK_IMPORT_BHEA_MEMBERSHIPS' => 'Import Memberships',
+  'LBL_LIST_FORM_TITLE' => 'Membership List',
+  'LBL_SEARCH_FORM_TITLE' => 'Search Membership',
+  'LBL_BHEA_MEMBER_LEVELS_BHEA_MEMBERSHIPS_1_FROM_BHEA_MEMBER_LEVELS_TITLE' => 'Membership Level',
+  'LBL_HOMEPAGE_TITLE' => 'My Membership',
+);

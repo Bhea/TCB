@@ -1,0 +1,14 @@
+<?php
+// created: 2013-12-30 19:34:06
+$mod_strings = array (
+  'LBL_YEAR' => 'Year',
+  'LBL_BHEA_FINANCE_PERFORMANCE_ACCOUNTS_1_FROM_ACCOUNTS_TITLE' => 'Accountss',
+  'LBL_LEADS_BHEA_FINANCE_PERFORMANCE_1_FROM_LEADS_TITLE' => 'Lead',
+  'LBL_ACCOUNTS_BHEA_FINANCE_PERFORMANCE_1_FROM_ACCOUNTS_TITLE' => 'Company',
+  'LBL_ASSETS' => 'Assets(M)',
+  'LBL_FORTUNE_GLOBAL_RATING' => 'Fortune Global Rating',
+  'LBL_FORBES_RATING' => 'Forbes Rating',
+  'LBL_REVENUE' => 'Revenue(M)',
+  'LBL_PROFIT' => 'Profit(M)',
+  'LBL_BHEA_FINANCE_PERFORMANCE_DOCUMENTS_1_FROM_DOCUMENTS_TITLE' => 'Document',
+);

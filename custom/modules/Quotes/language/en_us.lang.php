@@ -1,0 +1,27 @@
+<?php
+// created: 2013-12-30 19:34:06
+$mod_strings = array (
+  'LNK_NEW_QUOTE' => 'Create Quote',
+  'LBL_MODULE_NAME' => 'Quotes',
+  'LBL_MODULE_NAME_SINGULAR' => 'Quote',
+  'LBL_NEW_FORM_TITLE' => 'Create Quote',
+  'LNK_QUOTE_LIST' => 'View Quotes',
+  'LNK_QUOTE_REPORTS' => 'View Quote Reports',
+  'LBL_LIST_FORM_TITLE' => 'Quote List',
+  'LBL_SEARCH_FORM_TITLE' => 'Quote Search',
+  'LBL_SHIPPING_ACCOUNT_NAME' => 'Shipping Company Name:',
+  'LBL_SHIPPING_CONTACT_NAME' => 'Shipping Contact Name:',
+  'LBL_SHIPPING_CONTACT_ID' => 'Shipping Contact Id:',
+  'LBL_ACCOUNT_NAME' => 'Company Name:',
+  'LBL_BILLING_ACCOUNT_NAME' => 'Billing Company Name:',
+  'LBL_BILLING_CONTACT_NAME' => 'Billing Contact Name:',
+  'LBL_BILLING_CONTACT_ID' => 'Billing Contact Id:',
+  'LBL_OPPORTUNITY_NAME' => 'Opportunity Name:',
+  'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Document',
+  'LBL_CONTRACTS_SUBPANEL_TITLE' => 'Contracts',
+  'LBL_LIST_MY_QUOTES' => 'My Quotes',
+  'LBL_ACCOUNT_ID' => 'Company Id',
+  'LBL_LIST_ACCOUNT_NAME' => 'Company Name',
+  'LBL_QUOTE_NUM' => 'Quote Number:',
+  'LBL_LIST_PRODUCT_NAME' => 'Quoted Line Item',
+);

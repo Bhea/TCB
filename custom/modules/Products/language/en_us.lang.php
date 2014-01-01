@@ -1,0 +1,27 @@
+<?php
+// created: 2013-12-30 19:34:06
+$mod_strings = array (
+  'LNK_NEW_PRODUCT' => 'Create Quoted Line Item',
+  'LBL_MODULE_NAME' => 'Quoted Line Items',
+  'LBL_MODULE_NAME_SINGULAR' => 'Quoted Line Item',
+  'LBL_NEW_FORM_TITLE' => 'Create Quoted Line Item',
+  'LNK_PRODUCT_LIST' => 'View Quoted Line Items',
+  'LNK_IMPORT_PRODUCTS' => 'Import Quoted Line Items',
+  'LBL_LIST_FORM_TITLE' => 'Quoted Line Item List',
+  'LBL_SEARCH_FORM_TITLE' => 'Quoted Line Item Search',
+  'LBL_CONTACT_NAME' => 'Contact Name:',
+  'LBL_QUOTE_NAME' => 'Quote Name:',
+  'LBL_ACCOUNT_NAME' => 'Company Name:',
+  'LBL_RELATED_PRODUCTS_TITLE' => 'Quoted Line Items',
+  'LBL_NOTES_SUBPANEL_TITLE' => 'Notes',
+  'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Document',
+  'LBL_CONTRACTS_SUBPANEL_TITLE' => 'Contracts',
+  'LBL_CONTACT' => 'Contact',
+  'LBL_CONTACT_ID' => 'Contact ID',
+  'LBL_ACCOUNT_ID' => 'Company ID',
+  'LBL_LIST_ACCOUNT_NAME' => 'Company Name',
+  'LBL_QUOTE_ID' => 'Quote ID',
+  'LBL_LIST_NAME' => 'Quoted Line Item',
+  'LBL_URL' => 'Quoted Line Item URL:',
+  'LBL_FORECAST' => 'Include in Forecast',
+);

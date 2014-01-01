@@ -1,0 +1,6 @@
+<?php
+// created: 2013-12-30 19:20:44
+$mod_strings = array (
+  'LBL_OPPORTUNITIES_BHEA_PROGRAM_1_FROM_OPPORTUNITIES_TITLE' => 'Opportunity',
+  'LBL_BHEA_PROGRAM_BHEA_PROGRAM_CATALOGUE_1_FROM_BHEA_PROGRAM_CATALOGUE_TITLE' => 'Program Catalogue',
+);

@@ -1,0 +1,28 @@
+<?php
+// created: 2013-12-30 19:34:06
+$mod_strings = array (
+  'LBL_CURRENCY' => 'Currency',
+  'LBL_MEMBERS' => 'Members',
+  'LBL_BHEA_COUNCIL_MEMBERSHIPS_OPPORTUNITIES_1_FROM_OPPORTUNITIES_TITLE' => 'Opportunities',
+  'LBL_ACCOUNTS_BHEA_COUNCIL_MEMBERSHIPS_1_FROM_ACCOUNTS_TITLE' => 'Company',
+  'LBL_DESCRIPTION' => 'Lost Reason',
+  'LBL_AMOUNT_PAID' => 'Amount Paid',
+  'LBL_DISCOUNT' => 'Discount',
+  'LBL_FINAL_MEMBERSHIP_FEE' => 'Final Membership Fee',
+  'LBL_BHEA_COUNCIL_MEMBERSHIPS_BHEA_PAYMENTS_1_FROM_BHEA_PAYMENTS_TITLE' => 'Payment',
+  'LBL_BHEA_COUNCILS_BHEA_COUNCIL_MEMBERSHIPS_1_FROM_BHEA_COUNCILS_TITLE' => 'Group',
+  'LBL_EXPIRY_DATE ' => 'Expiry Date',
+  'LBL_PAYMENT_STATUS' => 'Payment Status',
+  'LBL_BHEA_COUNCIL_MEMBERSHIPS_BHEA_ORDERS_1_FROM_BHEA_ORDERS_TITLE' => 'Order',
+  'LNK_NEW_RECORD' => 'Create Council Memberships',
+  'LNK_LIST' => 'View Council Memberships',
+  'LBL_MODULE_NAME' => 'Council Memberships',
+  'LBL_MODULE_NAME_SINGULAR' => 'Council Membership',
+  'LBL_NEW_FORM_TITLE' => 'New Council Membership',
+  'LNK_IMPORT_VCARD' => 'Import Council Membership vCard',
+  'LNK_IMPORT_BHEA_COUNCIL_MEMBERSHIPS' => 'Import Council Memberships',
+  'LBL_LIST_FORM_TITLE' => 'Council Membership List',
+  'LBL_SEARCH_FORM_TITLE' => 'Search Council Membership',
+  'LBL_BHEA_COUNCIL_MEMBERS_BHEA_COUNCIL_MEMBERSHIPS_1_FROM_BHEA_COUNCIL_MEMBERS_TITLE' => 'Council Member',
+  'LBL_HOMEPAGE_TITLE' => 'My Council Membership',
+);

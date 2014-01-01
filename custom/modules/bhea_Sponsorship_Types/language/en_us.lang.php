@@ -1,0 +1,25 @@
+<?php
+// created: 2013-12-30 19:34:06
+$mod_strings = array (
+  'LNK_NEW_RECORD' => 'Create Sponsorship Type',
+  'LNK_LIST' => 'View Sponsorship Types',
+  'LBL_MODULE_NAME' => 'Sponsorship Types',
+  'LBL_MODULE_NAME_SINGULAR' => 'Sponsorship Type',
+  'LBL_NEW_FORM_TITLE' => 'New Sponsorship Type',
+  'LNK_IMPORT_VCARD' => 'Import Sponsorship Type vCard',
+  'LNK_IMPORT_BHEA_SPONSORSHIP_TYPES' => 'Import Sponsorship Type',
+  'LBL_LIST_FORM_TITLE' => 'Sponsorship Types List',
+  'LBL_SEARCH_FORM_TITLE' => 'Search Sponsorship Type',
+  'LBL_HOMEPAGE_TITLE' => 'My Sponsorship Types',
+  'LBL_DESCRIPTION' => 'Description',
+  'LBL_OTHER_INFORMATION' => 'Sponsorship Offering',
+  'LBL_SPONSORSHIP_COVERAGE' => 'Sponsorship Coverage',
+  'LBL_SPONSORSHIP_REGION' => 'Sponsorship Region',
+  'LBL_SPONSOR_TYPE' => 'Sponsor type',
+  'LBL_SPONSORSHIP_TYPE' => 'Sponsorship Type',
+  'LBL_SPONSORSHIP_FEE' => 'Sponsorship Fee',
+  'LBL_BHEA_SPONSORSHIP_TYPES_BHEA_SPONSORSHIP_1_FROM_BHEA_SPONSORSHIP_TITLE' => 'Sponsorships',
+  'LBL_BHEA_SPONSORSHIP_TYPES_OPPORTUNITIES_1_FROM_OPPORTUNITIES_TITLE' => 'Opportunity',
+  'LBL_BHEA_SESSIONS_BHEA_SPONSORSHIP_TYPES_1_FROM_BHEA_SESSIONS_TITLE' => 'Session',
+  'LBL_BHEA_EVENTS_BHEA_SPONSORSHIP_TYPES_1_FROM_BHEA_EVENTS_TITLE' => 'Event',
+);
